@@ -1,0 +1,16 @@
+{
+  "name": "pos",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "ejs": "~2.3.3",
+    "express": "~4.13.1",
+    "morgan": "^1.6.1",
+    "nodemon": "^1.11.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
